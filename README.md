@@ -2,15 +2,15 @@
 ## Overview
 In this weeks challenge we looked at review data from amazon products. The main goal was to find if the vine program made biased reviews. The vine program is a program where amazon pays people to give reviews in order to get more reviews on their products. If done correctly it is not a bad idea however we will see what the data says about it in practice.
 ## Results
--- How many vine reviews and non-vine reviews were there? There was approximately 4,864,249 reviews
+* How many vine reviews and non-vine reviews were there? There was approximately 4,864,249 reviews
 
--- How many Vine reviews were 5 stars? There was 432 vine reviews.
+* How many Vine reviews were 5 stars? There was 432 vine reviews.
 
--- How many non-Vine reviews were 5 stars? There was 29,982 non-vine reviews.
+* How many non-Vine reviews were 5 stars? There was 29,982 non-vine reviews.
 
--- What percentage of Vine reviews were 5 stars? The percentage of vine reviews that were 5 stars was %34.12.
+* What percentage of Vine reviews were 5 stars? The percentage of vine reviews that were 5 stars was %34.12.
 
--- What percentage of non-Vine reviews were 5 stars? The percentage of non-vine reviews that were 5 stars was %48.34.
+* What percentage of non-Vine reviews were 5 stars? The percentage of non-vine reviews that were 5 stars was %48.34.
 
 !["All the Variables That Were Made to Answer the Questions and There Outputs."](Resources/all_variables_vine.png)
 ## Summary
