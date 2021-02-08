@@ -7,6 +7,7 @@ In this weeks challenge we looked at review data from amazon products. The main 
 -- How many non-Vine reviews were 5 stars? There was 29,982 non-vine reviews.
 -- What percentage of Vine reviews were 5 stars? The percentage of vine reviews that were 5 stars was %34.12.
 -- What percentage of non-Vine reviews were 5 stars? The percentage of non-vcine reviews that were 5 stars was %48.34.
+
 !["All the Variables That Were Made to Answer the Questions and There Outputs."](Resources/all_variables_vine.png)
 ## Summary
 Looking at the data gathered from this challenge, there seems to be little evidence that the vine program has any bias. As a matter of fact the vine reviews had a lower 5 star review percentage than the non-vine reviews by %14.22. Therefore I think it is safe to say that the vine program does not have any bias, at least with the products that we looked at in this challenge.
